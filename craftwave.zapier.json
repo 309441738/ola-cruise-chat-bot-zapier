@@ -1,0 +1,10 @@
+{
+  "title": "Cruise Product Chat Bot",
+  "description": "An AI chat bot designed to assist users in finding and booking cruise products right from their chat interface.",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
